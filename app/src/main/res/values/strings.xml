@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Login App</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="enter_the_mobile_number">Enter the mobile number</string>
+    <string name="home_screen">Home Screen</string>
+    <string name="mobile_and_password_must_not_be_empty">Mobile and password must not be empty</string>
+    <string name="please_enter_valid_data">Please enter valid data</string>
+</resources>
